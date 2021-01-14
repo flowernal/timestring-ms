@@ -1,5 +1,5 @@
 # timestring-ms
-Converts provided time string to ms.
+Converts the provided timestring to ms.
 
 Usage:
 ```JavaScript
